@@ -1,0 +1,15 @@
+D:\GB\С#\examTask\exam\task\bin\Debug\net6.0\task.exe
+D:\GB\С#\examTask\exam\task\bin\Debug\net6.0\task.deps.json
+D:\GB\С#\examTask\exam\task\bin\Debug\net6.0\task.runtimeconfig.json
+D:\GB\С#\examTask\exam\task\bin\Debug\net6.0\task.dll
+D:\GB\С#\examTask\exam\task\bin\Debug\net6.0\task.pdb
+D:\GB\С#\examTask\exam\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+D:\GB\С#\examTask\exam\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\С#\examTask\exam\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+D:\GB\С#\examTask\exam\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+D:\GB\С#\examTask\exam\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+D:\GB\С#\examTask\exam\task\obj\Debug\net6.0\task.dll
+D:\GB\С#\examTask\exam\task\obj\Debug\net6.0\refint\task.dll
+D:\GB\С#\examTask\exam\task\obj\Debug\net6.0\task.pdb
+D:\GB\С#\examTask\exam\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+D:\GB\С#\examTask\exam\task\obj\Debug\net6.0\ref\task.dll
